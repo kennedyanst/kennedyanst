@@ -9,7 +9,7 @@
 
 - 📫 Me encontrará no e-mail **keke.218@gmail.com**
 
-- 📄 Minhas certiicações você encontrará no [linkedin.com/in/kennedyanst](linkedin.com/in/kennedyanst)
+- 📄 Minhas certificações você encontrará no [linkedin.com/in/kennedyanst](linkedin.com/in/kennedyanst)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
