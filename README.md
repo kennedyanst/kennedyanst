@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/kennedyans" target="blank"><img src="https://img.shields.io/twitter/follow/kennedyans?logo=twitter&style=for-the-badge" alt="kennedyans" /></a> </p>
 
-- 🌱 Estou aprendendo **Python e R aplicados em Machine learning, e SQL para banco de dados**
+- 🌱 Estou aprendendo **Linguagem de programação Python, R e SQL aplicados em Machine Learning, Análise de Dados, Ciência de Dados. Além disso, atualmente estou aprendendo também Microsoft Power BI, SGBDs como: MySQL, Microsoft SQL Server, PostgreSQL, SQLite e Google BigQuery.**
 
-- 💬 Me pergunte sobre **Python, R e SQL**
+- 💬 Me pergunte sobre **Python, R e SQL. Análise e visualização de dados. Microsoft Word, Excel, PowerPoint e Power BI. Tecnicas de Machine Learning com Python e R.**
 
 - 📫 Me encontrará no e-mail **keke.218@gmail.com**
 
-- 📄 Minhas experiências com dados você encontra no [linkedin.com/in/kennedyanst](linkedin.com/in/kennedyanst)
+- 📄 Minhas certiicações você encontrará no [linkedin.com/in/kennedyanst](linkedin.com/in/kennedyanst)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
