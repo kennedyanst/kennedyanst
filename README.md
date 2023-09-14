@@ -1,11 +1,19 @@
 <h1 align="center">Olá 👋, me chamo Kennedy Anderson</h1>
-<h3 align="center">Um estudante de biomedicina apaixonado por dados e por programação em Python e R. Aspirante a Bioinformata e Analista de Dados Júnior.</h3>
+<h3 align="center">Um estudante de biomedicina apaixonado por dados e por programação em Python e R. Aspirante a Bioinformata | Analista de Dados e BI.</h3>
 
 <p align="left"> <a href="https://twitter.com/kennedyans" target="blank"><img src="https://img.shields.io/twitter/follow/kennedyans?logo=twitter&style=for-the-badge" alt="kennedyans" /></a> </p>
 
-- 🌱 Estou aprendendo **Linguagem de programação Python, R e SQL aplicados em Machine Learning, Análise de Dados, Ciência de Dados. Além disso, atualmente estou aprendendo também Microsoft Power BI, SGBDs como: MySQL, Microsoft SQL Server, PostgreSQL, SQLite e Google BigQuery.**
+- 🌱 Sou um entusiasta de biomedicina que encontrou sua verdadeira paixão na ciência e na análise de dados. Com um forte desejo de construir uma carreira impactante na área, busquei ativamente o desenvolvimento de habilidades relevantes.
 
-- 💬 Me pergunte sobre **Python, R e SQL. Análise e visualização de dados. Microsoft Word, Excel, PowerPoint e Power BI. Tecnicas de Machine Learning com Python e R.**
+Iniciei minha jornada aprendendo programação em Python e R de forma autodidata, compreendendo que essas seriam ferramentas essenciais para a minha carreira em análise de dados. Aproveitei a oportunidade para obter certificações que validassem meus conhecimentos e habilidades, incluindo uma certificação profissional de Analista de Dados do Google, que comprova meu compromisso com a excelência.
+
+Além disso, busquei aprimorar minhas habilidades em ferramentas essenciais para análise de dados, como o Microsoft Power BI, Microsoft Excel, além de iniciar o domínio em linguagem M e aprimorar a linguagem DAX, ampliando meu conjunto de competências analíticas.
+
+Meu conhecimento se estende também ao universo dos bancos de dados, onde tenho uma boa sapiência na linguagem SQL aplicada a uma variedade de Sistemas Gerenciadores de Bancos de Dados (SGBD), incluindo MySQL, PostgreSQL, Microsoft SQL Server e Oracle, bem como SQLite.
+
+Estou continuamente em busca de aprimoramento e pronto para aplicar minhas habilidades, paixão pela ciência e experiência comprovada para contribuir de forma significativa em desafios de análise de dados e projetos na área biomédica e além."**
+
+- 💬 Me pergunte sobre **Python, R e SQL. Análise e Visualização de Dados. Excel, PowerPoint e Power BI. Tecnicas de Machine Learning com Python e R.**
 
 - 📫 Me encontrará no e-mail **keke.218@gmail.com**
 
