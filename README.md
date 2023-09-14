@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Kennedy Anderson</h1>
-<h3 align="center">Um estudante de biomedicina apaixonado por dados e por programação em Python e R. Aspirante a Bioinformata e Analista de Dados Júnior.</h3>
+<h3 align="center">Um estudante de biomedicina apaixonado por dados e por programação em Python e R. Aspirante a Bioinformata | Analista de Dados.</h3>
 
 <p align="left"> <a href="https://twitter.com/kennedyans" target="blank"><img src="https://img.shields.io/twitter/follow/kennedyans?logo=twitter&style=for-the-badge" alt="kennedyans" /></a> </p>
 
