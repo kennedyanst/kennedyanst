@@ -1,10 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DFFFE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Kennedy+Anderson;I'm+28+years+old.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Kennedy+Anderson;I'm+31+years+old.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=I'm+from+Brazil;Biomedicine+Student+at+UDF.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=I'm+from+Brazil;Biomedicine+graduate+at+UDF.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=I'm+Passionate+About+Data+Analysis;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=Currently+studying+software+engineering+at+the+Catholic+University+of+Brasilia.+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=Data+analyst+for+almost+4+years.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kennedyanst&bg_color=000000&color=3DFFFE&line=0EFF3A&point=57FFFE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
