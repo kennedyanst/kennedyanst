@@ -29,15 +29,31 @@
 ![DAX](https://img.shields.io/badge/-DAX_Language-0D1117?style=for-the-badge&logo=dax&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![ORACLE](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
 
-<h3 align="right">Connect with me:</h3>
+<br>
 
-<p align="right">
-<a href="https://twitter.com/KennedyANS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kennedyans" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kennedyanst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennedyanst" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/300421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="300421" height="30" width="40" /></a>
-<a href="https://kaggle.com/biomedkennedyanst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="biomedkennedyanst" height="30" width="40" /></a>
-<a href="https://instagram.com/kennedyanst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kennedyanst" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/keke_218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keke_218" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+### Connect with me:
+
+<a href="https://twitter.com/KennedyANS" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/>
+</a>
+<a href="https://linkedin.com/in/kennedyanst" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://stackoverflow.com/users/300421" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025" alt="Stack Overflow"/>
+</a>
+<a href="https://kaggle.com/biomedkennedyanst" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
+</a>
+<a href="https://instagram.com/kennedyanst" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+<a href="https://www.hackerrank.com/keke_218" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank"/>
+</a>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3DFFFE&height=120&section=footer"/>
