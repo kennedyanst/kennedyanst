@@ -1,17 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DFFFE&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3DFFFE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Kennedy+Anderson;I'm+31+years+old.)](https://git.io/typing-svg)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=I'm+from+Brazil;Biomedicine+graduate+at+UDF.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=57FFFC&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Kennedy+Anderson;I%27m+31+years+old.;I%27m+from+Brazil.;Biomedicine+graduate+from+UDF.;Currently+studying+Software+Engineering+at+the+Catholic+University+of+Bras%C3%ADlia.;Data+Analyst+for+almost+4+years.;Be+welcome!+%3A%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=Currently+studying+software+engineering+at+the+Catholic+University+of+Brasilia.+:%29)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57FFFC&size=35&center=true&vCenter=true&width=1000&lines=Data+analyst+for+almost+4+years.;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kennedyanst&bg_color=000000&color=3DFFFE&line=0EFF3A&point=57FFFE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kennedyanst&show_icons=true&count_private=true&hide_border=true&title_color=0EFF3A&icon_color=11FF0C&text_color=00FFF4&bg_color=000000" alt="Kennedy Anderson github stats" /> 
@@ -26,18 +21,16 @@
 ![VSCODE](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=052AE8)&nbsp;
 ![SQL SERVER](https://img.shields.io/badge/-Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
 
-
-
 ### Studying in this moment:
+
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![M](https://img.shields.io/badge/-M_Language-0D1117?style=for-the-badge&logo=m&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![DAX](https://img.shields.io/badge/-DAX_Language-0D1117?style=for-the-badge&logo=dax&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![ORACLE](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
 
-
-
 <h3 align="right">Connect with me:</h3>
+
 <p align="right">
 <a href="https://twitter.com/KennedyANS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kennedyans" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kennedyanst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennedyanst" height="30" width="40" /></a>
@@ -47,4 +40,4 @@
 <a href="https://www.hackerrank.com/keke_218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keke_218" height="30" width="40" /></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DFFFE&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3DFFFE&height=120&section=footer"/>
