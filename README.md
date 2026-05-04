@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=57FFFC&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Kennedy+Anderson;I%27m+31+years+old.;I%27m+from+Brazil.;Biomedicine+graduate+from+UDF.;Currently+studying+Software+Engineering+at+the+Catholic+University+of+Bras%C3%ADlia.;Data+Analyst+for+almost+4+years.;Be+welcome!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=57FFFC&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Kennedy+Anderson;I%27m+31+years+old.;I%27m+from+Brazil.;Biomedicine+graduate+from+UDF.;Studying+Software+Engineering+at+the+Catholic+University+of+Bras%C3%ADlia.;Data+Analyst+for+almost+4+years.;Be+welcome!+%3A%29)](https://git.io/typing-svg)
 
 </div>
 
