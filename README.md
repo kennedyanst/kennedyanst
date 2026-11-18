@@ -1,59 +1,48 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3DFFFE&height=120&section=header"/>
+<!-- ===================================================================== -->
+<!-- OPÇÃO 2 — CRISTAL FUMÊ & POEIRA DOURADA (REVISADA E ALINHADA)         -->
+<!-- ===================================================================== -->
 
-<div align="center">
+<p align="center">
+<a href="https://www.kennedyanst.com.br/"><img width="100%" src="./assets/banner-v2.jpg" alt="Kennedy Anderson — Multiverse Data Portfolio" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=57FFFC&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+Kennedy+Anderson;I%27m+31+years+old.;I%27m+from+Brazil.;Biomedicine+graduate+from+UDF.;Studying+Software+Engineering+at+UCB.;Data+Analyst+for+almost+4+years.;Be+welcome!+%3A%29)](https://git.io/typing-svg)
+<p align="center">
+<strong>Data Analyst &amp; Analytics Engineer</strong> &nbsp;•&nbsp; Biomedicine &amp; Data Science &amp; Data Engineering
+</p>
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft_DP--600-0B0908?style=flat-square&logo=microsoft&logoColor=D4AF37" alt="DP-600" />
+<img src="https://img.shields.io/badge/Microsoft_DP--700-0B0908?style=flat-square&logo=microsoft&logoColor=D4AF37" alt="DP-700" />
+<img src="https://img.shields.io/badge/Microsoft_PL--300-0B0908?style=flat-square&logo=microsoft&logoColor=D4AF37" alt="PL-300" />
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kennedyanst&bg_color=000000&color=3DFFFE&line=0EFF3A&point=57FFFE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+<a href="https://www.google.com/search?q=https://www.kennedyanst.com.br/projetos_bi"><img src="https://img.shields.io/badge/Power_BI-0E181E?style=for-the-badge&logo=powerbi&logoColor=00E5FF" alt="Power BI" /></a>
+<a href="https://www.google.com/search?q=https://www.kennedyanst.com.br/projetos_python"><img src="https://img.shields.io/badge/Python_%2F_R-0E1A16?style=for-the-badge&logo=python&logoColor=10B981" alt="Python e R" /></a>
+<a href="https://www.google.com/search?q=https://www.kennedyanst.com.br/projetos_databricks"><img src="https://img.shields.io/badge/Databricks-1E1010?style=for-the-badge&logo=databricks&logoColor=EF4444" alt="Databricks" /></a>
+<a href="https://www.google.com/search?q=https://www.kennedyanst.com.br/projetos_ux"><img src="https://img.shields.io/badge/UX_Design-171022?style=for-the-badge&logo=figma&logoColor=A855F7" alt="UX Design" /></a>
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kennedyanst&show_icons=true&count_private=true&hide_border=true&title_color=0EFF3A&icon_color=11FF0C&text_color=00FFF4&bg_color=000000" alt="Kennedy Anderson github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyanst&layout=compact&hide_border=true&title_color=0EFF3A&text_color=3064FF&bg_color=000000" />
-</div>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kennedyanst&show_icons=true&count_private=true&hide_rank=true&bg_color=0B0908&border_color=5C4728&border_radius=12&title_color=D4AF37&icon_color=F3D27A&text_color=D8D1C5" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyanst&layout=compact&bg_color=0B0908&border_color=5C4728&border_radius=12&title_color=D4AF37&text_color=D8D1C5" alt="Top Languages" />
+</p>
 
-### Main skills and tools:
+<p align="center">
+<a href="https://github.com/kennedyanst"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kennedyanst&bg_color=070606&color=C5A059&line=E6C77A&point=FFF0C2&area=true&area_color=4A371E&hide_border=false&radius=12" alt="Activity Wave Graph" /></a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r&labelColor=0D1117)&nbsp;
-![PowerBI](https://img.shields.io/badge/-Microsoft_Power_BI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
-![VSCODE](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=052AE8)&nbsp;
-![SQL SERVER](https://img.shields.io/badge/-Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
+<p align="center">
+<a href="https://www.kennedyanst.com.br/"><img src="https://skillicons.dev/icons?i=py,r,postgres,figma,vscode,git,github,html,css&theme=dark&perline=9" alt="Tech Stack" /></a>
+</p>
 
-### Studying in this moment:
+<p align="center">
+<a href="https://www.kennedyanst.com.br/"><img src="https://img.shields.io/badge/kennedyanst.com.br-0B0908?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfólio" /></a>
+<a href="https://linkedin.com/in/kennedyanst"><img src="https://img.shields.io/badge/LinkedIn-0B0908?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" /></a>
+<a href="https://kaggle.com/biomedkennedyanst"><img src="https://img.shields.io/badge/Kaggle-0B0908?style=for-the-badge&logo=kaggle&logoColor=D4AF37" alt="Kaggle" /></a>
+<a href="mailto:contato@kennedyanst.com.br"><img src="https://img.shields.io/badge/Contato-0B0908?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" /></a>
+</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![M](https://img.shields.io/badge/-M_Language-0D1117?style=for-the-badge&logo=m&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![DAX](https://img.shields.io/badge/-DAX_Language-0D1117?style=for-the-badge&logo=dax&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![ORACLE](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
-
-<br>
-
-<div align="center">
-
-### Connect with me:
-
-<a href="https://twitter.com/KennedyANS" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/>
-</a>
-<a href="https://linkedin.com/in/kennedyanst" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="https://stackoverflow.com/users/300421" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025" alt="Stack Overflow"/>
-</a>
-<a href="https://kaggle.com/biomedkennedyanst" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
-</a>
-<a href="https://instagram.com/kennedyanst" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
-<a href="https://www.hackerrank.com/keke_218" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank"/>
-</a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3DFFFE&height=120&section=footer"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0908,50:3A2C1A,100:D4AF37&height=70&section=footer" alt="Footer" />
+</p>
