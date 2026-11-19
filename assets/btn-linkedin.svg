@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="48" viewBox="0 0 142 48" fill="none" role="img" aria-label="LinkedIn">
+  <defs>
+    <linearGradient id="bg" x1="4" y1="4" x2="138" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#F0F9FF" stop-opacity="0.86"/>
+    </linearGradient>
+    <filter id="sh" x="-10%" y="-20%" width="120%" height="155%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#0F172A" flood-opacity="0.06"/>
+    </filter>
+    <style>
+      .font { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <g filter="url(#sh)">
+    <rect x="4" y="4" width="134" height="38" rx="19" fill="url(#bg)" stroke="#BAE6FD" stroke-width="1.2"/>
+  </g>
+  <line x1="20" y1="5.5" x2="122" y2="5.5" stroke="#FFFFFF" stroke-width="1.5"/>
+  <rect x="20" y="14.5" width="17" height="17" rx="4.5" fill="#0284C7"/>
+  <text x="28.5" y="27" text-anchor="middle" class="font" font-size="11.5" font-weight="800" fill="#FFFFFF">in</text>
+  <text x="46" y="27.5" class="font" font-size="13" font-weight="700" fill="#0F172A">LinkedIn</text>
+</svg>

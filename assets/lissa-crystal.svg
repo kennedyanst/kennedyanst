@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="236" viewBox="0 0 900 236" fill="none" role="img" aria-label="Lissa — Guia de Trilhas e Stack do Portfólio">
+  <defs>
+    <linearGradient id="lissaBg" x1="0" y1="0" x2="900" y2="236" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="55%" stop-color="#F7FCFE" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#F1FBF7" stop-opacity="0.88"/>
+    </linearGradient>
+
+    <linearGradient id="lissaBorder" x1="12" y1="10" x2="888" y2="226" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="42%" stop-color="#BAE6FD" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#A7F3D0" stop-opacity="0.88"/>
+    </linearGradient>
+
+    <radialGradient id="lissaOrbCore" cx="38%" cy="32%" r="65%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="28%" stop-color="#A5F3FC"/>
+      <stop offset="68%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </radialGradient>
+
+    <radialGradient id="lissaGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.34"/>
+      <stop offset="60%" stop-color="#10B981" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="orbRingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+
+    <filter id="lissaShadow" x="-4%" y="-10%" width="108%" height="128%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0F172A" flood-opacity="0.055"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#0EA5E9" flood-opacity="0.05"/>
+    </filter>
+
+    <filter id="orbDrop" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#0891B2" flood-opacity="0.26"/>
+    </filter>
+
+    <style>
+      .font { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif; }
+      .orb-breathe { animation: breathe 4.6s ease-in-out infinite; transform-origin: 86px 108px; }
+      .orb-ring { animation: spinSlow 11s linear infinite; transform-origin: 86px 108px; }
+      .status-a { animation: pulseDot 2.8s ease-in-out infinite; }
+      .status-b { animation: pulseDot 2.8s ease-in-out 0.6s infinite; }
+      .status-c { animation: pulseDot 2.8s ease-in-out 1.2s infinite; }
+      .status-d { animation: pulseDot 2.8s ease-in-out 1.8s infinite; }
+
+      @keyframes breathe {
+        0%, 100% { transform: scale(1) translateY(0px); }
+        50% { transform: scale(1.04) translateY(-3px); }
+      }
+      @keyframes spinSlow {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes pulseDot {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.42; }
+      }
+    </style>
+  </defs>
+
+  <!-- Main Crystal Glass Card -->
+  <g filter="url(#lissaShadow)">
+    <rect x="12" y="10" width="876" height="216" rx="22" fill="url(#lissaBg)" stroke="url(#lissaBorder)" stroke-width="1.35"/>
+  </g>
+  <line x1="34" y1="11.5" x2="866" y2="11.5" stroke="#FFFFFF" stroke-width="1.8" stroke-opacity="0.95"/>
+
+  <!-- Left Panel: Lissa Orb + Intro -->
+  <circle cx="86" cy="108" r="56" fill="url(#lissaGlow)"/>
+  <g class="orb-ring">
+    <circle cx="86" cy="108" r="43" stroke="url(#orbRingGrad)" stroke-width="1.8" stroke-dasharray="18 8"/>
+  </g>
+  <g class="orb-breathe" filter="url(#orbDrop)">
+    <circle cx="86" cy="108" r="33" fill="url(#lissaOrbCore)" stroke="#FFFFFF" stroke-width="1.6"/>
+    <!-- Specular crescent highlight -->
+    <ellipse cx="75" cy="95" rx="12" ry="7" transform="rotate(-28 75 95)" fill="#FFFFFF" fill-opacity="0.68"/>
+    <circle cx="98" cy="122" r="4" fill="#A7F3D0" fill-opacity="0.72"/>
+  </g>
+
+  <text x="148" y="84" class="font" font-size="22" font-weight="800" letter-spacing="-0.5" fill="#0F172A">Lissa</text>
+  <rect x="210" y="66" width="110" height="23" rx="11.5" fill="#ECFEFF" stroke="#A5F3FC" stroke-width="1"/>
+  <text x="265" y="81.5" text-anchor="middle" class="font" font-size="10.5" font-weight="700" fill="#0E7490">Guia do Portfólio</text>
+
+  <text x="148" y="109" class="font" font-size="12.5" fill="#475569">Assistente e mapa das trilhas</text>
+  <text x="148" y="127" class="font" font-size="12.5" fill="#475569">de dados, BI e UX em</text>
+  <text x="148" y="149" class="font" font-size="13" font-weight="700" fill="#0284C7">kennedyanst.com.br ↗</text>
+
+  <!-- Vertical glass separator -->
+  <line x1="348" y1="34" x2="348" y2="202" stroke="#D8E8F0" stroke-width="1.1"/>
+
+  <!-- Right Panel: Structured Tracks & Stack List -->
+  <text x="378" y="45" class="font" font-size="11" font-weight="700" letter-spacing="0.9" fill="#64748B">TRILHA &amp; FOCO</text>
+  <text x="676" y="45" class="font" font-size="11" font-weight="700" letter-spacing="0.9" fill="#64748B">STACK PRINCIPAL</text>
+  <line x1="378" y1="54" x2="862" y2="54" stroke="#E2EEF4" stroke-width="1"/>
+
+  <!-- Row 1: Databricks -->
+  <g>
+    <circle class="status-a" cx="386" cy="78" r="4.2" fill="#0EA5E9"/>
+    <text x="401" y="82.5" class="font" font-size="13.5" font-weight="700" fill="#0F172A">Data Engineering</text>
+    <text x="524" y="82.5" class="font" font-size="12" fill="#64748B">Lakehouse &amp; Pipelines</text>
+
+    <rect x="676" y="66" width="76" height="23" rx="11.5" fill="#FFFFFF" stroke="#BAE6FD" stroke-width="1"/>
+    <text x="714" y="81.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#0369A1">Databricks</text>
+    <rect x="758" y="66" width="52" height="23" rx="11.5" fill="#FFFFFF" stroke="#BAE6FD" stroke-width="1"/>
+    <text x="784" y="81.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#0369A1">Spark</text>
+    <rect x="816" y="66" width="46" height="23" rx="11.5" fill="#FFFFFF" stroke="#A7F3D0" stroke-width="1"/>
+    <text x="839" y="81.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#047857">SQL</text>
+  </g>
+  <line x1="378" y1="97" x2="862" y2="97" stroke="#EDF4F8" stroke-width="1"/>
+
+  <!-- Row 2: Python & R -->
+  <g>
+    <circle class="status-b" cx="386" cy="117" r="4.2" fill="#06B6D4"/>
+    <text x="401" y="121.5" class="font" font-size="13.5" font-weight="700" fill="#0F172A">Data Science</text>
+    <text x="524" y="121.5" class="font" font-size="12" fill="#64748B">ETL, Estatística &amp; Apps</text>
+
+    <rect x="676" y="105" width="60" height="23" rx="11.5" fill="#FFFFFF" stroke="#BAE6FD" stroke-width="1"/>
+    <text x="706" y="120.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#0369A1">Python</text>
+    <rect x="742" y="105" width="32" height="23" rx="11.5" fill="#FFFFFF" stroke="#A7F3D0" stroke-width="1"/>
+    <text x="758" y="120.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#047857">R</text>
+    <rect x="780" y="105" width="82" height="23" rx="11.5" fill="#FFFFFF" stroke="#A7F3D0" stroke-width="1"/>
+    <text x="821" y="120.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#047857">Streamlit</text>
+  </g>
+  <line x1="378" y1="136" x2="862" y2="136" stroke="#EDF4F8" stroke-width="1"/>
+
+  <!-- Row 3: Power BI -->
+  <g>
+    <circle class="status-c" cx="386" cy="156" r="4.2" fill="#10B981"/>
+    <text x="401" y="160.5" class="font" font-size="13.5" font-weight="700" fill="#0F172A">Analytics &amp; BI</text>
+    <text x="524" y="160.5" class="font" font-size="12" fill="#64748B">Modelagem &amp; KPIs</text>
+
+    <rect x="676" y="144" width="68" height="23" rx="11.5" fill="#FFFFFF" stroke="#A7F3D0" stroke-width="1"/>
+    <text x="710" y="159.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#047857">Power BI</text>
+    <rect x="750" y="144" width="56" height="23" rx="11.5" fill="#FFFFFF" stroke="#BAE6FD" stroke-width="1"/>
+    <text x="778" y="159.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#0369A1">Fabric</text>
+    <rect x="812" y="144" width="50" height="23" rx="11.5" fill="#FFFFFF" stroke="#A7F3D0" stroke-width="1"/>
+    <text x="837" y="159.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#047857">DAX</text>
+  </g>
+  <line x1="378" y1="175" x2="862" y2="175" stroke="#EDF4F8" stroke-width="1"/>
+
+  <!-- Row 4: UX Design -->
+  <g>
+    <circle class="status-d" cx="386" cy="195" r="4.2" fill="#0D9488"/>
+    <text x="401" y="199.5" class="font" font-size="13.5" font-weight="700" fill="#0F172A">UX &amp; DataViz</text>
+    <text x="524" y="199.5" class="font" font-size="12" fill="#64748B">Produto &amp; Storytelling</text>
+
+    <rect x="676" y="183" width="58" height="23" rx="11.5" fill="#FFFFFF" stroke="#BAE6FD" stroke-width="1"/>
+    <text x="705" y="198.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#0369A1">Figma</text>
+    <rect x="740" y="183" width="58" height="23" rx="11.5" fill="#FFFFFF" stroke="#A7F3D0" stroke-width="1"/>
+    <text x="769" y="198.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#047857">Plotly</text>
+    <rect x="804" y="183" width="58" height="23" rx="11.5" fill="#FFFFFF" stroke="#BAE6FD" stroke-width="1"/>
+    <text x="833" y="198.2" text-anchor="middle" class="font" font-size="11" font-weight="600" fill="#0369A1">UI/UX</text>
+  </g>
+</svg>

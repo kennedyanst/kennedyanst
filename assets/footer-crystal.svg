@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="72" viewBox="0 0 900 72" fill="none" role="img" aria-label="Crystal Glass Footer">
+  <defs>
+    <linearGradient id="waveA" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.22"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0.24"/>
+    </linearGradient>
+    <linearGradient id="waveB" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.16"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="waveRim" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.65"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0.65"/>
+    </linearGradient>
+    <clipPath id="footerClip">
+      <rect x="0" y="0" width="900" height="72" rx="18"/>
+    </clipPath>
+    <style>
+      .drift-a { animation: driftA 9s ease-in-out infinite; }
+      .drift-b { animation: driftB 12s ease-in-out infinite; }
+      @keyframes driftA {
+        0%, 100% { transform: translateX(0px); }
+        50% { transform: translateX(-36px); }
+      }
+      @keyframes driftB {
+        0%, 100% { transform: translateX(-28px); }
+        50% { transform: translateX(18px); }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#footerClip)">
+    <g class="drift-b">
+      <path d="M-60 40 C 120 12, 310 64, 510 34 C 700 6, 840 52, 980 28 L 980 80 L -60 80 Z" fill="url(#waveB)"/>
+    </g>
+    <g class="drift-a">
+      <path d="M-40 46 C 140 20, 320 62, 520 38 C 710 14, 830 56, 980 34 L 980 80 L -40 80 Z" fill="url(#waveA)" stroke="url(#waveRim)" stroke-width="1.3"/>
+    </g>
+  </g>
+</svg>

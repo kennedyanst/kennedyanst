@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="48" viewBox="0 0 132 48" fill="none" role="img" aria-label="Kaggle">
+  <defs>
+    <linearGradient id="bg" x1="4" y1="4" x2="128" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#ECFEFF" stop-opacity="0.86"/>
+    </linearGradient>
+    <filter id="sh" x="-10%" y="-20%" width="120%" height="155%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#0F172A" flood-opacity="0.06"/>
+    </filter>
+    <style>
+      .font { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <g filter="url(#sh)">
+    <rect x="4" y="4" width="124" height="38" rx="19" fill="url(#bg)" stroke="#A5F3FC" stroke-width="1.2"/>
+  </g>
+  <line x1="20" y1="5.5" x2="112" y2="5.5" stroke="#FFFFFF" stroke-width="1.5"/>
+  <rect x="20" y="14.5" width="17" height="17" rx="4.5" fill="#06B6D4"/>
+  <text x="28.5" y="27" text-anchor="middle" class="font" font-size="12" font-weight="800" fill="#FFFFFF">k</text>
+  <text x="46" y="27.5" class="font" font-size="13" font-weight="700" fill="#0F172A">Kaggle</text>
+</svg>

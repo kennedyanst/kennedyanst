@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="164" viewBox="0 0 38 164" fill="none" role="img" aria-label="Fluxo">
+  <defs>
+    <linearGradient id="flowLine" x1="2" y1="80" x2="34" y2="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+    <filter id="pulseGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <line x1="2" y1="80" x2="31" y2="80" stroke="url(#flowLine)" stroke-width="2.2" stroke-linecap="round" stroke-opacity="0.55"/>
+  <path d="M26 74.5 L33 80 L26 85.5" stroke="#10B981" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Animated streaming light pulse -->
+  <circle cy="80" r="3.4" fill="#0EA5E9" filter="url(#pulseGlow)">
+    <animate attributeName="cx" values="4;30" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.8;1" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0EA5E9;#10B981" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
